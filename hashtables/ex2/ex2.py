@@ -19,5 +19,9 @@ def reconstruct_trip(tickets, length):
     """
     YOUR CODE HERE
     """
+    # if source is none, make that the index 0
+    # if destination is none, make that the last index
+    print(tickets)
 
     return route
+print(reconstruct_trip(tickets))

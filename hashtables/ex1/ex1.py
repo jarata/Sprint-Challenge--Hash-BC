@@ -12,6 +12,10 @@ def get_indices_of_item_weights(weights, length, limit):
     """
     YOUR CODE HERE
     """
+    # sum of 2 items = limit
+    # weights is a list of numbers // weights = [1,2,3,4,5]
+    # limit = int
+    
 
     return None
 
